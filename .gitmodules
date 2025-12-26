@@ -10,3 +10,7 @@
 	path = site-CMU_b
 	url = ./site-CMU_b
 	datalad-id = 94fbfb43-0627-455d-bb7d-c1851d64eef8
+[submodule "site-MaxMun_c"]
+	path = site-MaxMun_c
+	url = ./site-MaxMun_c
+	datalad-id = 3ffee8cb-0073-49cf-a9d7-7e9761abbcb7
