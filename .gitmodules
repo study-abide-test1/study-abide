@@ -6,10 +6,6 @@
 	path = CMU_a
 	url = ./CMU_a
 	datalad-id = bce244e6-7219-4c4f-9407-b9c0885a90c0
-[submodule "site-CMU_b"]
-	path = site-CMU_b
-	url = ./site-CMU_b
-	datalad-id = 94fbfb43-0627-455d-bb7d-c1851d64eef8
 [submodule "site-MaxMun_c"]
 	path = site-MaxMun_c
 	url = ./site-MaxMun_c
