@@ -2,3 +2,7 @@
 	path = site-Caltech
 	url = ./site-Caltech
 	datalad-id = c7dfd649-a72d-461e-b6d4-cb8dd53d7875
+[submodule "CMU_a"]
+	path = CMU_a
+	url = ./CMU_a
+	datalad-id = bce244e6-7219-4c4f-9407-b9c0885a90c0
