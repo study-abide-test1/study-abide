@@ -1,16 +1,16 @@
 [submodule "site-Caltech"]
 	path = site-Caltech
-	url = ./site-Caltech
+	url = https://github.com/study-abide-test1/study-abide-site-Caltech.git
 	datalad-id = c7dfd649-a72d-461e-b6d4-cb8dd53d7875
 [submodule "CMU_a"]
 	path = CMU_a
-	url = ./CMU_a
+	url = https://github.com/study-abide-test1/study-abide-site-CMU_a.git
 	datalad-id = bce244e6-7219-4c4f-9407-b9c0885a90c0
 [submodule "site-MaxMun_c"]
 	path = site-MaxMun_c
-	url = ./site-MaxMun_c
+	url = https://github.com/study-abide-test1/study-abide-site-MaxMun_c.git
 	datalad-id = 3ffee8cb-0073-49cf-a9d7-7e9761abbcb7
 [submodule "site-MaxMun_d"]
 	path = site-MaxMun_d
-	url = ./site-MaxMun_d
+	url = https://github.com/study-abide-test1/study-abide-site-MaxMun_d.git
 	datalad-id = 46fa874e-05bf-47ec-8258-5c68af0601ae
